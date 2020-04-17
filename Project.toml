@@ -1,0 +1,9 @@
+name = "BdGMatrices"
+uuid = "6e129364-c389-4270-8d39-fb01a3c5a66c"
+authors = ["Rodney Polkinghorne <rpolkinghorne@swin.edu.au>"]
+version = "0.1.0"
+
+[deps]
+BandedMatrices = "aae01518-5342-5314-be14-df237901396f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
